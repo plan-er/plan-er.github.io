@@ -10,6 +10,6 @@ Languages: C, Python
 ## Qualification
 基本情報技術者
 ## Activity
-Kosen Procon 2019
+Kosen Procon 2019  
 ***
 ©2020 plan-er
