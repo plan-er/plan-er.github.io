@@ -11,5 +11,5 @@ Languages: C, Python
 基本情報技術者
 ## Activity
 Kosen Procon 2019
----
+***
 ©2020 plan-er
