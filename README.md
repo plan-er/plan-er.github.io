@@ -1,2 +1,2 @@
-# plan-er.github.io
+# plan-er
 ---
